@@ -1,4 +1,4 @@
-# Group 142
+# In-game-toxicity-detection
 
 *   Best_model.pt is the saved model we submitted on kaggle
 *   Chat.csv is the data used to train the word embedding for aspect 3 domain features.
